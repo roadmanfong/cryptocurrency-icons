@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
-    <title>busd</title>
-    <desc>Created with Sketch.</desc>
-    <g id="busd" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <circle id="Oval" fill="#FFA100" fill-rule="nonzero" cx="16" cy="16" r="16"></circle>
-        <g transform="translate(5.500000, 5.500000)" fill="#FFFFFF" fill-rule="nonzero" id="Path">
-            <polygon points="10.4417808 0 13 2.60204082 6.55821918 9 4 6.45918367"></polygon>
-            <polygon points="14.4186603 4 17 6.63095238 6.58133971 17 4 14.4309524"></polygon>
-            <polygon points="2.5 8 5 10.5297619 2.5 13 0 10.5297619"></polygon>
-            <polygon points="18.4186603 8 21 10.6309524 10.5813397 21 8 18.4309524"></polygon>
-        </g>
-    </g>
-</svg>
+<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg"><g fill="none"><circle fill="#FFA100" cx="16" cy="16" r="16"/><path d="M15.942 5.5 18.5 8.102 12.058 14.5 9.5 11.96zm3.977 4 2.581 2.631L12.081 22.5 9.5 19.931zM8 13.5l2.5 2.53L8 18.5l-2.5-2.47zm15.919 0 2.581 2.631L16.081 26.5 13.5 23.931z" fill="#FFF"/></g></svg>
