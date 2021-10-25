@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>okb</title>
+    <desc>Created with Sketch.</desc>
+    <g id="okb" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#D8D8D8" cx="16" cy="16" r="16"></circle>
+        <g transform="translate(5.000000, 5.000000)" fill-rule="nonzero">
+            <circle id="Oval" fill="#88BDF3" cx="11" cy="5" r="5"></circle>
+            <circle id="Oval-Copy" fill="#3075EE" cx="11" cy="17" r="5"></circle>
+            <circle id="Oval-Copy-2" fill="#5795F1" cx="17" cy="11" r="5"></circle>
+            <circle id="Oval-Copy-3" fill="#205FEC" cx="5" cy="11" r="5"></circle>
+            <path d="M10,10 C8.02364862,9.51944028 6.48055972,7.97635138 6,6 C7.97230966,6.4877358 9.5122642,8.02769034 10,10 Z" id="Combined-Shape" fill="#134BEF"></path>
+            <path d="M6,16 C6.48055972,14.0236486 8.02364862,12.4805597 10,12 C9.5122642,13.9723097 7.97230966,15.5122642 6,16 Z" id="Combined-Shape-2" fill="#0932E8"></path>
+            <path d="M12,12 C13.9763514,12.4805597 15.5194403,14.0236486 16,16 C14.0276903,15.5122642 12.4877358,13.9723097 12,12 L12,12 Z" id="Combined-Shape-3" fill="#164BEA"></path>
+            <path d="M16,6 C15.5194403,7.97635138 13.9763514,9.51944028 12,10 C12.4877358,8.02769034 14.0276903,6.4877358 16,6 Z" id="Combined-Shape-4" fill="#3170F1"></path>
+        </g>
+    </g>
+</svg>

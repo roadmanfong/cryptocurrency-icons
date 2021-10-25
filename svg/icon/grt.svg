@@ -1,1 +1,16 @@
-<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><filter x="-5.8%" y="-4.2%" width="111.7%" height="111.7%" filterUnits="objectBoundingBox" id="a"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur stdDeviation=".5" in="shadowOffsetOuter1" result="shadowBlurOuter1"/><feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/><feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.199473505 0" in="shadowBlurOuter1"/></filter><filter color-interpolation-filters="auto" id="d"><feColorMatrix in="SourceGraphic" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"/></filter><linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="c"><stop stop-color="#FFF" stop-opacity=".5" offset="0%"/><stop stop-opacity=".5" offset="100%"/></linearGradient><circle id="b" cx="16" cy="15" r="15"/></defs><g fill="none" fill-rule="evenodd"><use fill="#000" filter="url(#a)" xlink:href="#b"/><use fill="#5942CC" xlink:href="#b"/><use fill="url(#c)" style="mix-blend-mode:soft-light" xlink:href="#b"/><circle stroke-opacity=".097" stroke="#000" stroke-linejoin="square" cx="16" cy="15" r="14.5"/><g filter="url(#d)"><path d="M20.707 18.543a1 1 0 010 1.414l-4 4a1 1 0 11-1.414-1.414l4-4a1 1 0 011.414 0zM15 6.25a6 6 0 110 12 6 6 0 010-12zm0 2a4 4 0 100 8 4 4 0 000-8zm7-2a1 1 0 110 2 1 1 0 010-2z" fill="#000" fill-rule="nonzero"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>grt</title>
+    <desc>Created with Sketch.</desc>
+    <g id="grt" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#6747ED" fill-rule="nonzero" cx="16" cy="16" r="16"></circle>
+        <g transform="translate(8.000000, 7.000000)" fill="#FFFFFF" id="Symbols">
+            <g transform="translate(1.000000, 0.000000)">
+                <g id="Group">
+                    <path d="M6.43333333,10.5482759 C4.06666667,10.5482759 2.16666667,8.68103448 2.16666667,6.35517241 C2.16666667,4.02931034 4.06666667,2.16206897 6.43333333,2.16206897 C8.8,2.16206897 10.7,4.02931034 10.7,6.35517241 C10.7,8.68103448 8.8,10.5482759 6.43333333,10.5482759 L6.43333333,10.5482759 Z M6.43333333,0.0655172414 C9.96666667,0.0655172414 12.8333333,2.88275862 12.8333333,6.35517241 C12.8333333,9.82758621 9.96666667,12.6448276 6.43333333,12.6448276 C2.9,12.6448276 0.0333333333,9.82758621 0.0333333333,6.35517241 C0.0333333333,2.88275862 2.9,0.0655172414 6.43333333,0.0655172414 Z M12.5333333,12.9724138 C12.9666667,13.3982759 12.9666667,14.0534483 12.5333333,14.4465517 L8.26666667,18.6396552 C7.83333333,19.0655172 7.16666667,19.0655172 6.76666667,18.6396552 C6.33333333,18.2137931 6.33333333,17.5586207 6.76666667,17.1655172 L11.0333333,12.9724138 C11.4333333,12.5465517 12.1333333,12.5465517 12.5333333,12.9724138 Z M15,1.1137931 C15,1.70344828 14.5333333,2.16206897 13.9333333,2.16206897 C13.3333333,2.16206897 12.8666667,1.70344828 12.8666667,1.1137931 C12.8666667,0.524137931 13.3333333,0.0655172414 13.9333333,0.0655172414 C14.5,0.0655172414 15,0.524137931 15,1.1137931 Z" id="Fill-19"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

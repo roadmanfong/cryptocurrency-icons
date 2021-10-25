@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>wmana</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="85.355%" y1="14.645%" x2="14.645%" y2="85.355%" id="linearGradient-1">
+            <stop stop-color="#FF2D55" offset="0%"></stop>
+            <stop stop-color="#FFBC5B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.966%" y1="0%" x2="49.966%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#A524B3" offset="0%"></stop>
+            <stop stop-color="#FF2D55" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.966%" y1="0%" x2="49.966%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#A524B3" offset="0%"></stop>
+            <stop stop-color="#FF2D55" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="wmana" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#D8D8D8" cx="16" cy="16" r="16"></circle>
+        <g>
+            <circle id="Oval" stroke="#FF4A57" cx="16" cy="16" r="15.5"></circle>
+            <circle id="Oval" fill="url(#linearGradient-1)" fill-rule="nonzero" cx="16" cy="16" r="12.8"></circle>
+            <polygon id="Path" fill="url(#linearGradient-2)" fill-rule="nonzero" points="12.2688 11.52 12.2688 21.12 20.2688 21.12"></polygon>
+            <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="4.2688 21.12 12.2688 21.12 12.2688 11.52"></polygon>
+            <path d="M5.76,23.68 C6.4896,24.6464 7.3536,25.5104 8.32,26.24 L23.68,26.24 C24.6464,25.5104 25.5104,24.6464 26.24,23.68 L5.76,23.68 Z" id="Path" fill="#FC9965" fill-rule="nonzero"></path>
+            <path d="M8.32,26.24 C10.4576,27.8464 13.12,28.8 16,28.8 C18.88,28.8 21.5424,27.8464 23.68,26.24 L8.32,26.24 Z" id="Path" fill="#FF2D55" fill-rule="nonzero"></path>
+            <polygon id="Path" fill="url(#linearGradient-3)" fill-rule="nonzero" points="20.3712 16.64 20.3712 23.68 26.24 23.68"></polygon>
+            <path d="M20.3712,21.12 L4.2688,21.12 C4.6656,22.0352 5.1712,22.8928 5.76,23.68 L20.3776,23.68 L20.3776,21.12 L20.3712,21.12 L20.3712,21.12 Z" id="Path" fill="#FFBC5B" fill-rule="nonzero"></path>
+            <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="14.5088 23.68 20.3712 23.68 20.3712 16.64"></polygon>
+            <circle id="Oval" fill="#FFC95B" fill-rule="nonzero" cx="20.3712" cy="11.52" r="3.2"></circle>
+            <circle id="Oval" fill="#FFC95B" fill-rule="nonzero" cx="12.2688" cy="8" r="1.6"></circle>
+        </g>
+    </g>
+</svg>

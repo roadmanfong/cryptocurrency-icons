@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>chz</title>
+    <desc>Created with Sketch.</desc>
+    <g id="chz" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#FB2020" fill-rule="nonzero" cx="16" cy="16" r="16"></circle>
+        <g transform="translate(6.000000, 6.000000)" fill="#FFFFFF">
+            <path d="M18.8446398,1.22222222 L14.555,10.7902222 L14.7182149,10.9123906 L14.245124,11.5694613 L14.216,11.5472222 L9.82231989,21.3513839 L5.313,11.2922222 L5.04089254,10.9123906 L5.117,10.8542222 L0.8,1.22222222 L18.8446398,1.22222222 Z M9.879,8.30822222 L6.115,11.1192222 L9.82231989,19.3893569 L13.557,11.0552222 L9.879,8.30822222 Z M2.327,2.66822222 L5.776,10.3622222 L9.202,7.80322222 L2.327,2.66822222 Z M17.259,2.79622222 L10.555,7.80322222 L13.896,10.2982222 L17.259,2.79622222 Z M16.924,2.03622222 L2.835,2.03622222 L9.879,7.29722222 L16.924,2.03622222 Z" id="Combined-Shape" fill-rule="nonzero"></path>
+            <ellipse id="Oval" cx="1.4" cy="1.42592593" rx="1.4" ry="1.42592593"></ellipse>
+            <ellipse id="Oval" cx="18.2" cy="1.42592593" rx="1.4" ry="1.42592593"></ellipse>
+            <ellipse id="Oval-Copy" cx="14.2" cy="11.2037037" rx="1.4" ry="1.42592593"></ellipse>
+            <ellipse id="Oval-Copy-3" cx="10.04" cy="20.1666667" rx="1.4" ry="1.42592593"></ellipse>
+            <ellipse id="Oval-Copy-2" cx="5.4" cy="11.2037037" rx="1.4" ry="1.42592593"></ellipse>
+        </g>
+    </g>
+</svg>

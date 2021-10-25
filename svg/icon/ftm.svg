@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>ftm</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ftm" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#13B5EC" fill-rule="nonzero" cx="16" cy="16" r="16"></circle>
+        <g transform="translate(10.000000, 6.000000)" fill="#FFFFFF" id="Shape">
+            <path d="M7.2,6.93467337 L10.8,4.8241206 L10.8,9.04522613 L7.2,6.93467337 Z M10.8,15.9798995 L6,18.7939698 L1.2,15.9798995 L1.2,11.0552764 L6,13.8693467 L10.8,11.0552764 L10.8,15.9798995 Z M1.2,4.8241206 L4.8,6.93467337 L1.2,9.04522613 L1.2,4.8241206 Z M6.6,7.93969849 L10.2,10.0502513 L6.6,12.160804 L6.6,7.93969849 Z M5.4,12.160804 L1.8,10.0502513 L5.4,7.93969849 L5.4,12.160804 Z M10.2,3.81909548 L6,6.23115578 L1.8,3.81909548 L6,1.30653266 L10.2,3.81909548 Z M0,3.41708543 L0,16.5829146 L6,20 L12,16.5829146 L12,3.41708543 L6,0 L0,3.41708543 Z"></path>
+        </g>
+    </g>
+</svg>

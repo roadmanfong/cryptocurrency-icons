@@ -1,1 +1,23 @@
-<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="c"><stop stop-color="#FFF" offset="0%"/><stop offset="100%"/></linearGradient><filter x="-5.8%" y="-4.2%" width="111.7%" height="111.7%" filterUnits="objectBoundingBox" id="a"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur stdDeviation=".5" in="shadowOffsetOuter1" result="shadowBlurOuter1"/><feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/><feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.199473505 0" in="shadowBlurOuter1"/></filter><circle id="b" cx="15" cy="15" r="15"/></defs><g fill="none"><g transform="translate(1)"><use fill="#000" filter="url(#a)" xlink:href="#b"/><use fill="#1A4199" xlink:href="#b"/><use fill="url(#c)" style="mix-blend-mode:soft-light" xlink:href="#b"/><circle stroke-opacity=".097" stroke="#000" stroke-linejoin="square" cx="15" cy="15" r="14.5"/></g><g fill="#FFF"><path d="M11.16 7.114l9.756 5.628v5.744L6 9.872l4.786-2.758a.382.382 0 01.382 0" opacity=".7"/><path opacity=".9" d="M20.916 7l-4.97 2.872 4.97 2.87z"/><path d="M20.916 7l4.786 2.76c.123.066.2.194.2.334v11.262l-4.986-2.87V7z"/><path d="M25.892 21.356l-4.786 2.758a.4.4 0 01-.382 0l-9.756-5.628v-5.752l14.924 8.622z" opacity=".9"/><path d="M6 9.872v11.262c0 .14.077.268.2.334l4.786 2.76V12.734L6 9.872z" opacity=".6"/><path opacity=".7" d="M10.978 24.228l4.968-2.872-4.968-2.87z"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>nexo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0.757495777%" y1="0.757495777%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#3E60C7" offset="0%"></stop>
+            <stop stop-color="#2D4692" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="nexo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M16,32 C24.8368,32 32,24.8368 32,16 C32,7.1632 24.8368,0 16,0 C7.1632,0 0,7.1632 0,16 C0,24.8368 7.1632,32 16,32 Z" id="Oval" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+        <g transform="translate(6.000000, 7.000000)" fill-rule="nonzero" id="Path">
+            <path d="M5.136,0.1134 L14.84,5.7834 L14.84,11.5668 L0,2.8917 L4.756,0.1134 C4.87458054,0.0485923295 5.01741946,0.0485923295 5.136,0.1134 Z" fill="#BBC6E1"></path>
+            <polygon fill="#E9ECF5" points="14.84 0 9.892 2.8917 14.84 5.7834"></polygon>
+            <path d="M14.84,0 L19.6,2.7783 C19.7163401,2.8499549 19.7886846,2.97661438 19.792,3.11445 L19.792,14.45445 L14.84,11.5668 L14.84,0 Z" fill="#FFFFFF"></path>
+            <path d="M19.788,14.4585 L15.032,17.2368 C14.9082396,17.3091463 14.7557604,17.3091463 14.632,17.2368 L4.932,11.5668 L4.932,5.7753 L19.788,14.4585 Z" fill="#E9ECF5"></path>
+            <path d="M-6.81019643e-06,2.8917 L-6.81019643e-06,14.2317 C-0.000817731739,14.3738741 0.0720554296,14.5060706 0.192,14.58 L4.948,17.3583 L4.948,5.7753 L-6.81019643e-06,2.8917 Z" fill="#A3B3D6"></path>
+            <polygon fill="#BBC6E1" points="4.948 17.3502 9.892 14.4585 4.948 11.5668"></polygon>
+        </g>
+    </g>
+</svg>
